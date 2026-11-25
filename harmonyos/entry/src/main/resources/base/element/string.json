@@ -1,0 +1,19 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    { "name": "page_title", "value": "智能待办" },
+    { "name": "btn_add", "value": "新增任务" },
+    { "name": "empty_tip", "value": "暂无任务，点击上方按钮添加" }
+  ]
+}

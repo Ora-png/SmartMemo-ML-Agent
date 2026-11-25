@@ -1,0 +1,22 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    { "name": "task_bg", "value": "#F2F6FB" },
+    { "name": "task_done_bg", "value": "#E8F5E9" },
+    { "name": "warn_text", "value": "#C0392B" },
+    { "name": "demo_primary", "value": "#0C548F" },
+    { "name": "text_main", "value": "#333333" },
+    { "name": "page_bg", "value": "#F5F7FA" },
+    { "name": "card_bg", "value": "#FFFFFF" },
+    { "name": "primary", "value": "#0C548F" },
+    { "name": "primary_light", "value": "#E6F0F9" },
+    { "name": "text_primary", "value": "#1A1A1A" },
+    { "name": "text_secondary", "value": "#999999" },
+    { "name": "success", "value": "#4CAF50" },
+    { "name": "success_bg", "value": "#E8F5E9" },
+    { "name": "danger", "value": "#E53935" }
+  ]
+}

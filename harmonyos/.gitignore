@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# HarmonyOS 构建产物与依赖
+oh_modules/
+build/
+.preview/
+.hvigor/
+.idea/
+local.properties
+*.log
+*.hap
+
+# 系统文件
+.DS_Store
+Thumbs.db
